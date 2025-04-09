@@ -46,15 +46,7 @@ npm run format
 
 ``` 
  
-
-### 2. Install Dependencies
-Use `npm` to install the necessary dependencies for the project:
-
-```bash
-npm install
-
-```
-### 3. Lint Code
+### 2. Lint Code
 To check your code for any linting errors and automatically fix them, run:
 
 ```bash
@@ -62,7 +54,7 @@ npm run lint
 
 ```
 
-### 4. Fix Linting Issues
+### 3. Fix Linting Issues
 If you want to automatically fix issues detected by the linter, use:
 
 ```bash
