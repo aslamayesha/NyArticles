@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+.color-red {
+    color: #f44336;
+}
+
+.pl-4 {
+    padding-left: 1rem;
+}
+
+.App {
+    text-align: center;
+}
+
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0; /* Start with opacity 0 */
+    }
+    to {
+      opacity: 1; /* End with opacity 1 */
+    }
+  }
+
