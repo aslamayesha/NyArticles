@@ -36,4 +36,57 @@ npm run start
 
 ```
 
+## Code Formatting & Linting
+
+
+### 1.  Format Code
+
+```bash
+npm run format
+
+``` 
+ 
+
+### 2. Install Dependencies
+Use `npm` to install the necessary dependencies for the project:
+
+```bash
+npm install
+
+```
+### 3. Lint Code
+To check your code for any linting errors and automatically fix them, run:
+
+```bash
+npm run lint
+
+```
+
+### 4. Fix Linting Issues
+If you want to automatically fix issues detected by the linter, use:
+
+```bash
+npm run lint:fix
+
+```
+
+## Running Tests
+
+
+### 1.   Run Unit Tests
+
+```bash
+npm test
+
+``` 
+ 
+
+### 2. Run Cypress Tests
+Use `npm` to install the necessary dependencies for the project:
+
+```bash
+npm run cypress:open
+
+```
+
 
